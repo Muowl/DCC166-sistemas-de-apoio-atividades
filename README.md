@@ -26,4 +26,6 @@ Elaborar um artigo, seguindo rigorosamente o formato da Sociedade Brasileira de 
 - **Citações e Referências:** Todas as fontes de dados e bibliográficas devem ser citadas conforme o padrão da SBC;
 - **Formatação:** O relatório deve ter entre 6 e 8 páginas, incluindo referências e elementos visuais. Os templates da SBC para LaTeX e Word, bem como os tutoriais de redação técnico-científica ("Resumo para o Workshop do DCC/UFJF" e "Artigo Acadêmico ou Técnico-Científico"), disponíveis no Google Classroom, devem servir de guia para a escrita;
 
-**Observação:** Os templates da SBC para LaTeX e Word encontram-se no repositório em `/exemplos`.
+**Observações:** 
+- Os templates da SBC para LaTeX e Word encontram-se no repositório em `/exemplos`.
+- As documentações para apresentação/entrega ficarão em `/docs`.
