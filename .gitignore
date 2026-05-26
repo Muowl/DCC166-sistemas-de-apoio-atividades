@@ -1,0 +1,52 @@
+# === LaTeX - artefatos de compilação ===
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.run.xml
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+*.xdy
+
+# === Saídas temporárias / backups de editores ===
+*~
+*.bak
+*.swp
+*.tmp
+
+# === Sistema operacional ===
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Editores / IDEs ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === LibreOffice / MS Office - arquivos de bloqueio ===
+.~lock.*#
+~$*
