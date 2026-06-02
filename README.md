@@ -1,5 +1,12 @@
 # Repo das Atividades Avaliativas
 
+## Membros
+- Felipe Lazzarini Cunha
+- Lucas Castro Carvalho
+- Pedro Detoni Pereira
+
+---
+
 ## ENUNCIADO DO TVC 1: Sistematização e Implementação de um SAD
 
 Aplicar o ciclo evolutivo "do dado à inteligência" por meio da resolução de um problema de negócio real. O aluno deverá utilizar modelagem analítica e ferramentas de Business Intelligence (BI), comunicando os resultados por meio de um relatório técnico rigoroso. As três partes deste TVC (ATIVIDADES 1, 2 e 3) sistematizam a criação de um SAD ao percorrer todas as camadas do ciclo de inteligência — desde a captura de dados operacionais até a prescrição de ações estratégicas fundamentadas em modelos analíticos.
